@@ -1,0 +1,63 @@
+/* Basic styling */
+
+.img {
+    width: 150px;
+    height: 150px;
+    
+  }
+
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  h1 {text-align: center;}
+
+  /* Header styling */
+  header {
+    background-color: #c41e1e;
+    padding: 10px 0;
+  }
+  
+  
+  /* Navigation bar styling */
+  nav {
+    background-color: #f2f2f2;
+    padding: 10px 0;
+  }
+  
+  .nav-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .nav-list li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .sort-by {
+    color:rgb(0, 0, 0);
+  }
+ 
+ 
+  
+  /* Footer styling */
+  footer {
+    background-color: #c41e1e;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .company-info {
+    color: #000000;
+  }
